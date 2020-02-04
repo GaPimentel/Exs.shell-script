@@ -1,0 +1,3 @@
+#!/ga/bin bash
+# Eu sou TRyber e me esforço muito! Vou ter muito sucesso na programação!
+
