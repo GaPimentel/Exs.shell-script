@@ -1,0 +1,2 @@
+#!/ga/bin bash
+# Eu sou Tryber e me esforço muito!
